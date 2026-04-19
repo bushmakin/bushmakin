@@ -19,22 +19,9 @@ System Analyst focused on requirements, process analysis, documentation, and tur
 - Change analysis
 - Technical communication
 
-## Featured link
-
-- 🌐 Resume / profile: [View my CV](https://fostfox.github.io/kol123-resume/sa)
-
 ## Workflow / tools
 
 `System Analysis` `Requirements` `Documentation` `Markdown` `GitHub` `Process Description`
-
-## Find me here
-
-- GitHub: [github.com/bushmakin](https://github.com/bushmakin)
-
----
-
-Thanks for visiting my profile.  
-If you're working on requirements, system documentation, or process analysis, feel free to connect.
 
 <!--
 **bushmakin/bushmakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,19 +10,6 @@ System Analyst focused on requirements, process analysis, documentation, and tur
 - Communication between stakeholders, analysts, and implementation teams
 - Clean, consistent bilingual technical content (RU / EN)
 
-## Areas of interest
-
-- System analysis
-- Requirements engineering
-- Process modeling
-- Documentation quality
-- Change analysis
-- Technical communication
-
-## Workflow / tools
-
-`System Analysis` `Requirements` `Documentation` `Markdown` `GitHub` `Process Description`
-
 <!--
 **bushmakin/bushmakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
